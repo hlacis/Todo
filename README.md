@@ -1,3 +1,5 @@
+![image](https://github.com/hlacis/todo/assets/150912836/022af14f-a4ea-4b74-877f-22cd547eb556)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
